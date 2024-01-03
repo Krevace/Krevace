@@ -10,7 +10,7 @@
 </div>
 
 # About Me
-I love modding games, making them, and messing around with Arduino. Welcome to my Github! Take at look at some of the projects I've been able to scrap together. On some of my older ones, you might find a retrospective pointing out anything I could improve on.
+I love modding games, making them, and messing around with Arduino. Welcome to my Github! Take at look at some of the projects I've been able to scrape together. On some of my older ones, you might find a writeup on what I think I could've done better.
 - From: Virginia Beach
 - Attending: Virginia Tech
 
@@ -35,21 +35,3 @@ I'm currently working on a UE5 4-player cooperative puzzle horror game (lotta bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="45" height="45"/>
   <br>
 </p>
-
-
-
-<!--
-
-**Krevace/Krevace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
