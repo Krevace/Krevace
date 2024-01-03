@@ -10,7 +10,7 @@
 </div>
 
 # About Me
-I love modding games, making them, and messing around with Arduino. Welcome to my Github! Take at look at some of the projects I've been able to scrape together. On some of my older ones, you might find a writeup on what I think I could've done better.
+I love modding games, making them, and messing around with Arduino. Welcome to my Github! Take at look at some of the projects I've been able to scrape together. On some of my older ones, you might find a writeup on what I think I could've done better. I'm always learning more and chasing my next passion project.
 - From: Virginia Beach
 - Attending: Virginia Tech
 
