@@ -22,7 +22,7 @@ I'm currently working on a UE5 4-player cooperative puzzle horror game (lotta bu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,dotnet,lua"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bots,matlab"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,pug,express,bots,matlab"/>
   <br>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,arduino,eclipse"/>
   <img src="https://github.com/Krevace/Krevace/assets/55517452/931d52d9-9dbc-4d1f-8a42-5f32843dada8" alt="rider" width="45" height="45"/>
