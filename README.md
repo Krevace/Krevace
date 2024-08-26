@@ -10,12 +10,12 @@
 </div>
 
 # About Me
-I love modding games, creating them, and developing all kinds of projects with Arduino. Welcome to my Github! Take at look at some of the projects I've been working on. On some of my older ones, you might find a writeup on what I think I could've done better. I'm always learning more and chasing my next passion project.
+Welcome to my Github! Take at look at some of the projects I've been working on. On some of my older ones, you might find a writeup on what I think I could've done better.
 - From: Virginia Beach
 - Attending: Virginia Tech
 
 # Current Projects
-I'm currently working on a UE5 4-player cooperative puzzle horror game (lotta buzzwords). The project's still in its infancy - not ready to show anything yet. I'm also trying my hand at Perforce for version control, and I'm starting to warm up to it.
+I'm currently working on a game leveraging UE5. The project's still in its infancy - not ready to show anything yet. I've been using Perforce for version control so far.
 
 # Languages and Tools I've Used
 
