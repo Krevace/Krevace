@@ -20,7 +20,7 @@ I'm currently working on a game leveraging UE5. The project's still in its infan
 # Languages and Tools I've Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,dotnet,lua"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,dotnet,lua"/>
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,pug,express,bots,matlab"/>
   <br>
